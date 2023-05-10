@@ -2,7 +2,7 @@
 
 Predict someone to no-show an appointment.
 
-Created a model which can predict an outcome of the above statement with accuracy of 79%.
+Created a model which can predict an outcome of the above statement with accuracy of 75%. Without normalisation(79%)
 
 There are still many ammendments to be considered into this project, such as:
 
